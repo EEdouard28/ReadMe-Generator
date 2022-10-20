@@ -1,7 +1,7 @@
-# Readme generator
+# The Readme Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  generator of readme
+  A readme generator built with Node.js to help create your Readme MD.
 
 ## Table of Contents
 - [Description](#description)
@@ -13,21 +13,21 @@
 - [Questions](#questions)
 
   ## Installation
-  install here
+  Install the inquirer node package and watch this example video.
 
   ## Usage
-  follow instructions
+  After installing inquirer watch this video.
 
   ## Credits
-  evince edouard
+  Evince Edouard
 
   ## Questions
   For any questions please email me at: evince.edouard@gmail.com
-  or Visit my Github at: http://github.com/eedouard28
+  or Visit my Github at: http://github.com/EEdouard28
 
   ### Licenses
   MIT
 
   ## Tests
-  no test at this time
+  This app has been tested and video example provided
 

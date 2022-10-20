@@ -20,11 +20,6 @@ const questions = [
         message: "Provide a brief description of what this project is about:"
     },
 
-    // {
-    //     type: "input",
-    //     name: "table of contents",
-    //     message: "Please list your table of contents here"
-    // },
 
     {
         type: "input",
