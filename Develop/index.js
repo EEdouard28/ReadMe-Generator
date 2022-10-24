@@ -74,7 +74,7 @@ function writeToFile(fileName, data) { }
 //prompt built in inquirer package
 function init() {
     inquirer.prompt(questions).then(data => {
-        fs.writeFileSync("Readme.MD", generateMarkdown(data))
+        fs.writeFileSync("./distribution/Readme.MD", generateMarkdown(data))
     })
 }
 
