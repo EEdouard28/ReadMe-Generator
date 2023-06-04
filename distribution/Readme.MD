@@ -1,7 +1,7 @@
-# Readme Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# safeMed
+  
   ## Description
-  A readme generator created utilizing inquirer package
+  
 
 ## Table of Contents
 - [Description](#description)
@@ -13,21 +13,21 @@
 - [Questions](#questions)
 
   ## Installation
-  Follow the example video in the assets folder
+  
 
   ## Usage
-  Refer to the example video in the assets folder
+  
 
   ## Credits
-  Evince Edouard
+  Evince, Jeff, Roodolph, Sindid, Hasan, Bria
 
   ## Questions
-  For any questions please email me at: evince.edouard@gmail.com
-  or Visit my Github at: http://github.com/EEdouard28
+  For any questions please email me at: 
+  or Visit my Github at: http://github.com/
 
-  ### Licenses
-  MIT
+  ### License
+  none
 
   ## Tests
-  This current readme is a test!
+  
 
